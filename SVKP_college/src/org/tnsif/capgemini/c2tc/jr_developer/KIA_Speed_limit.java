@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.c2tc.Jr_developer;
+package org.tnsif.capgemini.c2tc.jr_developer;
 
 public class KIA_Speed_limit {
 

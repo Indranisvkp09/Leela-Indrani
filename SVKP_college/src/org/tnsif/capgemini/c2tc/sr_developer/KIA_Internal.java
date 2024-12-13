@@ -1,5 +1,5 @@
-package org.tnsif.capgemini.c2tc.Sr_developer;
-import org.tnsif.capgemini.c2tc.Jr_developer.*;
+package org.tnsif.capgemini.c2tc.sr_developer;
+import org.tnsif.capgemini.c2tc.jr_developer.*;
 public class KIA_Internal {
 
 	public static void main(String[] args) {
